@@ -19,13 +19,13 @@ O projeto ganhou um contexto extra com a **MP 1.394/2026**, de 25/09/2026, que p
 
 ## Principais resultados
 
-![Cobertura das bets](graficos/03a_cobertura_bets.png)
+![Cobertura das bets](grafico/03a_cobertura_bets.png)
 
 - A folha salarial acompanha bem o desempenho (correlação de 0,70 com pontos por jogo). Os maiores desvios são o **Athletico-PR** (muito acima da tendência com folha baixa) e o **Corinthians** (muito abaixo com a 3ª maior folha).
 - A **Chapecoense** é o clube mais exposto à proibição das bets: o patrocínio da Zeroum Bet equivale a cerca de **51% da folha**, seguida por Vitória (41%) e Flamengo (39%).
 - O **Corinthians** tinha cerca de **R$ 3,5 milhões de patrocínio de bet por ponto conquistado**, o maior valor da Série A.
 
-![Folha x pontos](graficos/02a_folha_x_pontos.png)
+![Folha x pontos](grafico/02a_folha_x_pontos.png)
 
 ---
 
